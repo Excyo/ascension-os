@@ -133,10 +133,10 @@ body{background:#070710}
 .sb-icon{font-size:17px;flex-shrink:0;line-height:1}
 .sb-shadow-box{padding:14px 22px;border-top:1px solid rgba(220,38,38,.18);font-size:10px;color:#ef4444;font-family:'Share Tech Mono',monospace}
 .main-wrap{flex:1;margin-left:240px;min-height:100vh;display:flex;flex-direction:column;background:#070710}
-.content-area{flex:1;width:100%;max-width:1080px;padding:32px 36px 60px;margin:0 auto}
+.content-area{flex:1;width:100%;max-width:1200px;padding:40px 48px 60px;margin:0 auto}
 .mob-hdr{display:none}
 .mob-nav{display:none}
-.page-title{font-size:11px;font-weight:700;letter-spacing:4px;color:#475569;text-transform:uppercase;margin-bottom:24px;padding-bottom:12px;border-bottom:1px solid rgba(124,58,237,.12)}
+.page-title{font-family:'Rajdhani',sans-serif;font-size:14px;font-weight:700;letter-spacing:4px;color:#64748b;text-transform:uppercase;margin-bottom:24px;padding-bottom:14px;border-bottom:1px solid rgba(124,58,237,.15)}
 .d2{display:grid;grid-template-columns:1fr 1fr;gap:16px;align-items:start}
 .d3{display:grid;grid-template-columns:1fr 1fr 1fr;gap:12px}
 .d2-tasks{display:grid;grid-template-columns:1fr 1fr;gap:0 24px;align-items:start}
